@@ -1,0 +1,32 @@
+.ant-modal-content{
+    height: 60em;
+}
+
+.event-form{
+    width: 40%;
+    /* height: 40%; */
+    align-items: center;
+    justify-items: center;
+    margin-left: 28%;
+    overflow-y: auto; /* 添加垂直滚动条 */
+}
+.selectavenue{
+    width: 100%;
+    /* margin-left: 28%; */
+    margin-bottom: 6%;
+}
+.register-form-submit-button{
+    margin-top: 5%;
+    left: 27%;
+    width: 100px;
+}
+.register-form-add-section-button{
+    margin-right: 2%;
+}
+
+.custom-error-modal .ant-modal-content {
+    height: 20%; /* 设置高度 */
+  }
+.setime{
+    width: 100%;
+}
